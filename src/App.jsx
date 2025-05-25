@@ -10,6 +10,7 @@ import SignUpPage from './pages/SignUpPage';
 import DashboardPage from './pages/DashboardPage'; // Changed from AdminDashboard
 import ProtectedRoute from './components/ProtectedRoute';
 
+
 // Loading Component
 const LoadingScreen = () => (
   <div className="min-h-screen flex items-center justify-center bg-gray-50">
